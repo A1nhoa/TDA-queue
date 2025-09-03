@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDA queue", "TDA queue.csproj", "{EE38B1D7-6510-4947-8683-8D80DB0DE382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE38B1D7-6510-4947-8683-8D80DB0DE382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE38B1D7-6510-4947-8683-8D80DB0DE382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE38B1D7-6510-4947-8683-8D80DB0DE382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE38B1D7-6510-4947-8683-8D80DB0DE382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AAA4EAA-678C-4A7E-B7DE-C3560BCF896B}
+	EndGlobalSection
+EndGlobal
